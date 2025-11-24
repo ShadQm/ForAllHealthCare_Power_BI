@@ -1,5 +1,5 @@
 # 🏥 ForAll HealthCare Dashboard — Power BI Report
-https://github.com/ShadQm/ForAllHealthCare/blob/main/ForAll_HealthCare_Power_BI.png
+ [ForAll_HealthCare_Power_BI.png](https://github.com/ShadQm/ForAllHealthCare/blob/main/ForAll_HealthCare_Power_BI.png)
 ## 📌 Overview
 
 The ForAll HealthCare Dashboard is a Power BI report designed to summarize key hospital operations and patient activity.
