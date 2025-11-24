@@ -1,12 +1,12 @@
 # 🏥 ForAll HealthCare Dashboard — Power BI Report
- [ForAll_HealthCare_Power_BI.png](https://github.com/ShadQm/ForAllHealthCare/blob/main/ForAll_HealthCare_Power_BI.png)
+ [ForAll_HealthCare_Table_Fields.png](https://github.com/ShadQm/ForAllHealthCare/blob/main/ForAll_HealthCare_Table_Fields.png)
 ## 📌 Overview
 
 The ForAll HealthCare Dashboard is a Power BI report designed to summarize key hospital operations and patient activity.
 It visually presents bed occupancy, doctor feedback volumes, diagnosis trends, and billing insights in a clear, structured layout.
 
 ## This dashboard is built for reporting and presentation, using static visuals without interactive drill-throughs or detailed slicer-based analysis.
-
+ [ForAll_HealthCare_Power_BI.png](https://github.com/ShadQm/ForAllHealthCare/blob/main/ForAll_HealthCare_Power_BI.png)
 ## ⭐ Key Features
 ### 🛏️ Bed Occupancy Overview
 
